@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.preview/
+# Local reference supplied for fact checking, not a public profile asset.
+/Penggao_Li_Resume.pdf

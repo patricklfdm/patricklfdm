@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="246" viewBox="0 0 800 246" role="img" aria-labelledby="title desc">
+<title id="title">Wayvia — AI-powered travel planning</title>
+<desc id="desc">Private source. AI engineering, workflow orchestration, and personalized travel planning.</desc>
+<defs><linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#152337"/><stop offset="1" stop-color="#0B1220"/></linearGradient></defs>
+<rect width="800" height="246" rx="18" fill="url(#surface)"/>
+<rect x="0.5" y="0.5" width="799" height="245" rx="18" fill="none" stroke="#28445C"/>
+<g font-family="Arial, Helvetica, sans-serif"><text x="32" y="40" fill="#7DD3FC" font-size="18" font-weight="600" letter-spacing="1.4">02 / PRIVATE ENGINEERING</text><text x="768" y="40" fill="#B6C6D9" font-size="17" font-weight="600" text-anchor="end">PRIVATE SOURCE</text><text x="32" y="105" fill="#F8FAFC" font-size="48" font-weight="700" >Wayvia</text><text x="32" y="147" fill="#B6C6D9" font-size="27" font-weight="400" >AI-powered travel planning</text><path d="M32 175 L768 175" stroke="#28445C" stroke-width="1" fill="none"/><text x="32" y="214" fill="#7DD3FC" font-size="19" font-weight="600" >REASON</text><path d="M132 207 L195 207" stroke="#28445C" stroke-width="1" fill="none"/><text x="219" y="214" fill="#7DD3FC" font-size="19" font-weight="600" >ORCHESTRATE</text><path d="M384 207 L447 207" stroke="#28445C" stroke-width="1" fill="none"/><text x="471" y="214" fill="#34D399" font-size="19" font-weight="600" >PERSONALIZE</text></g>
+</svg>

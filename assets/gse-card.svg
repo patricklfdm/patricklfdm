@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="240" viewBox="0 0 800 240" role="img" aria-labelledby="title desc">
+<title id="title">General Search Engine</title>
+<desc id="desc">Public source. Java 21 search infrastructure: retrieval, durability, and replication.</desc>
+<defs><linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#152337"/><stop offset="1" stop-color="#0B1220"/></linearGradient></defs>
+<rect width="800" height="240" rx="18" fill="url(#surface)"/>
+<rect x="0.5" y="0.5" width="799" height="239" rx="18" fill="none" stroke="#28445C"/>
+<g font-family="Arial, Helvetica, sans-serif"><text x="32" y="40" fill="#7DD3FC" font-size="18" font-weight="600" letter-spacing="1.4">01 / FEATURED SYSTEM</text><text x="768" y="40" fill="#34D399" font-size="17" font-weight="600" text-anchor="end">PUBLIC SOURCE</text><text x="32" y="101" fill="#F8FAFC" font-size="43" font-weight="700" >General Search Engine</text><text x="32" y="143" fill="#B6C6D9" font-size="24" font-weight="400" >Retrieval. Durability. Replication.</text><path d="M32 169 L768 169" stroke="#28445C" stroke-width="1" fill="none"/><text x="32" y="208" fill="#7DD3FC" font-size="19" font-weight="600" >JAVA 21</text><text x="213" y="208" fill="#B6C6D9" font-size="19" font-weight="600" >BM25</text><text x="375" y="208" fill="#B6C6D9" font-size="19" font-weight="600" >WAL</text><text x="546" y="208" fill="#B6C6D9" font-size="19" font-weight="600" >QUORUM</text></g>
+</svg>
