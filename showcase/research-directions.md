@@ -1,4 +1,4 @@
-# Research directions
+# 🔬 Research directions
 
 [Back to profile](../README.md)
 

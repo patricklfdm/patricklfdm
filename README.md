@@ -4,14 +4,14 @@
 
 [GitHub](https://github.com/patricklfdm) · [LinkedIn](https://www.linkedin.com/in/penggao-li) · [Email](mailto:penggaol@alumni.cmu.edu)
 
-## About
+## 👋 About
 
 I'm Penggao (Patrick) Li, a Research Engineer at **Pacific Sports Promotion Association**, working on distributed systems and information retrieval. Previously, I built AI-powered travel planning workflows as a Software Development Engineer at **Wayvia LLC**. My work connects reliable search infrastructure with the products built on top of it.
 
 M.S. Electrical and Computer Engineering — **Carnegie Mellon University**, 2025  
 B.S. Computer Engineering — **University of California, Irvine**, 2023
 
-## Featured system · General Search Engine
+## 🔍 Featured system · General Search Engine
 
 [![General Search Engine — Java 21, retrieval, durability, replication. Public source.](assets/gse-card.svg)](https://github.com/patricklfdm/GeneralSearchEngine)
 
@@ -26,7 +26,7 @@ B.S. Computer Engineering — **University of California, Irvine**, 2023
 
 [Explore public source](https://github.com/patricklfdm/GeneralSearchEngine) · [Architecture & engineering notes](showcase/general-search-engine.md)
 
-## Private engineering showcase
+## 🧭 Private engineering showcase
 
 [![Wayvia — AI-powered travel planning. Private source.](assets/wayvia-card.svg)](showcase/wayvia.md)
 
@@ -36,7 +36,7 @@ Wayvia generates personalized travel itineraries through multi-stage LLM plannin
 
 [Read the public overview](showcase/wayvia.md) · Source remains private.
 
-## Research directions
+## 🔬 Research directions
 
 **Planned investigations** connecting consistency, latency, and retrieval quality:
 
@@ -45,18 +45,18 @@ Wayvia generates personalized travel itineraries through multi-stage LLM plannin
 
 [Research questions & scope](showcase/research-directions.md)
 
-## Technology stack
+## 🛠️ Technology stack
 
 - **Languages:** Java · Python · TypeScript · JavaScript · SQL · C/C++
 - **Distributed systems & data:** PostgreSQL · Redis · Kafka · MySQL
 - **Backend & web:** Next.js · React · NestJS · Spring Boot · Django
 - **Cloud & DevOps:** GCP · AWS · Docker · GitHub Actions · Maven · Prometheus · Grafana
 
-## GitHub activity
+## 🌱 GitHub activity
 
 Explore my public work and contribution timeline on [GitHub](https://github.com/patricklfdm). Activity is shown through GitHub's native profile features.
 
-## Contact
+## 📬 Contact
 
 Interested in search infrastructure, distributed systems, or AI engineering?  
 [LinkedIn](https://www.linkedin.com/in/penggao-li) · [penggaol@alumni.cmu.edu](mailto:penggaol@alumni.cmu.edu)

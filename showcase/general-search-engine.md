@@ -1,4 +1,4 @@
-# General Search Engine
+# 🔍 General Search Engine
 
 [Back to profile](../README.md) · [Public repository](https://github.com/patricklfdm/GeneralSearchEngine)
 

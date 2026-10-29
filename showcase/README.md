@@ -1,4 +1,4 @@
-# Engineering showcase
+# 🛠️ Engineering showcase
 
 [Back to profile](../README.md)
 

@@ -1,4 +1,4 @@
-# Wayvia | AI-Powered Travel Planning Platform
+# 🧭 Wayvia | AI-Powered Travel Planning Platform
 
 [Back to profile](../README.md)
 
